@@ -3,7 +3,6 @@
 A full-stack task management application built using MongoDB, Express.js, React.js, and Node.js.
 
 ## Features
-- User authentication
 - Create, update, delete tasks
 - Task status tracking
 - Due-date management
